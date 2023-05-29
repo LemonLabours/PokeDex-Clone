@@ -1,0 +1,21 @@
+import SwiftUI
+extension Color {
+    static let PGrass = Color("PGrass")
+    static let PFire = Color("PFire")
+    static let PWater = Color("PWater")
+    static let PNormal = Color("PNormal")
+    static let PFighting = Color("PFighting")
+    static let PFlying = Color("PFlying")
+    static let PPoison = Color("PPoison")
+    static let PElectric = Color("PElectric")
+    static let PGround = Color("PGround")
+    static let PRock = Color("PRock")
+    static let PBug = Color("PBug")
+    static let PGhost = Color("PGhost")
+    static let PSteel = Color("PSteel")
+    static let PIce = Color("PIce")
+    static let PPsychic = Color("PPsychic")
+    static let PFairy = Color("PFairy")
+    static let PDragon = Color("PDragon")
+    static let PDark = Color("PDark")
+}
