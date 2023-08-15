@@ -15,8 +15,9 @@ This repository contains a SwiftUI project that serves as a clone of the PokeDex
 - **Pokémon Details**: Tapping on a Pokémon card reveals comprehensive details about the chosen Pokémon, including its abilities, characteristics, and evolutionary chain. Users can gain a deeper understanding of each Pokémon and its unique traits.
 
 - **User-Friendly Experience**: The app focuses on providing a seamless and enjoyable user experience. It incorporates smooth animations, responsive interactions, and intuitive gestures, making it easy for users to navigate and interact with the app.
-
-
+- 
+## Screenshots
+![PokeDex](https://github.com/LemonLabours/BurgerKingClone/assets/101458752/4382deab-58f4-4846-bc4d-e84416e9a4bb)
 ## Acknowledgments
 
 - The design for this PokeDex clone is credited to Maria Julia Barbieri. You can find the original design on [Behance](https://www.behance.net/gallery/146710797/Pokedex-Ui-Study).
